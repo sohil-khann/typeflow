@@ -1,7 +1,5 @@
 # TypeFlow
 
-![TypeFlow Logo](public/arrow-icon.svg)
-
 TypeFlow is a modern typing practice application designed to help users improve their typing speed and accuracy through interactive exercises and real-time feedback.
 
 ## Live Demo
